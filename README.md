@@ -1,6 +1,6 @@
 # RAG-based Q&A System
 
-## Overview
+## Application Overview
 The **RAG-based Q&A System** is a **Retrieval-Augmented Generation (RAG)** application that enables users to upload documents, retrieve relevant content, and generate AI-powered answers based on selected documents.
 
 This application is built using **FastAPI**, **LangChain**, **ChromaDB**, and **OpenAI's LLMs** for efficient document ingestion, retrieval, and question answering.
